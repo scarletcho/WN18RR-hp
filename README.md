@@ -1,2 +1,2 @@
 # WN18RR-hp
-Hypernymy and Instance Hypernymy subset of WN18RR (Dettmers et al., 2018)
+A Filtered subset of Hypernymy and Instance Hypernymy pairs in WN18RR (Dettmers et al., 2018) for taxonomy path generation.
